@@ -7,7 +7,7 @@ React 构建聊天模块
 
 **数据结构**：{id:用户id,content:评论信息}
 
-## 版本 v1.0
+## 版本 v2.0
 2017.07.17
 
 - 将id,content数据储存在localstorage
